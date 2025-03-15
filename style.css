@@ -26,6 +26,7 @@ body {
     margin-bottom: 10px;
     border: 1px solid #ddd;
     border-radius: 3px;
+
   }
   
   .buttons {
@@ -37,9 +38,9 @@ body {
   .buttons .row {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 5px; /* Space between rows */
+    margin-bottom: 5px; 
     width: 100%;
-    gap: 5px; /* Add space between buttons in a row */
+    gap: 5px; 
   }
 
   .buttons button {
